@@ -1,0 +1,51 @@
+body > footer > p {
+    background-color: dodgerblue;
+    padding: 16px;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding: 16px;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    color: white;
+} 
+
+body > header > nav > ul > li > a {
+    color: white;
+    list-style: none;
+}
+
+body {
+    margin: 0;
+}
+
+body > main > main {
+    width: 70%;
+    margin: auto;
+}
+
+body > main > footer {
+    width: 70%;
+    margin: auto;
+}
+
+body > main > footer > form > textarea{
+    width: 100%;
+    margin: auto;
+}
+
+body > main > footer > form > button{
+    position: relative;
+    left: 95%
+}
+
+body > main > footer > p > img {
+    border-radius: 50%;
+}
